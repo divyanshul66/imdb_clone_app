@@ -2,7 +2,7 @@
 
 You can see the website live at: https://divyanshul66.github.io/imdb_clone_app/
 
-Project demo video Link:https://drive.google.com/file/d/15pI49pPYQeq-ZdtncHi2RCzs5YEbE8KO/view?usp=sharing
+Project demo video Link: https://drive.google.com/file/d/15pI49pPYQeq-ZdtncHi2RCzs5YEbE8KO/view?usp=sharing
 
 A mini IMDB clone app in which we can search movies based on OMDB API. 
 After clicking on a particular movie opens a new movie page for more info.
@@ -24,5 +24,5 @@ On clicking on the favourite button, we can add a movie to the favourite list wh
 # Index page:
 ![index](https://user-images.githubusercontent.com/119027160/236644979-746786da-7f96-4c54-99f9-852c1f361b3e.png)
 
-#Description page:
+# Description page:
 ![movie](https://user-images.githubusercontent.com/119027160/236645008-15f6a996-e615-4879-90f7-ff28ce332501.png)
